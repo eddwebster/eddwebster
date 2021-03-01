@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi , I'm Edd</h2>
 <p align="center">
-I'm a Data Analysis and Visualisation specialist currently working for City Football Group. I'm enthusiastic about football analytics, data science, machine learning, and applied AI. Most of my code is in Python or visualise in Tableau.
+I'm a Data Analysis and Visualisation specialist currently working for City Football Group. I am enthusiastic about football analytics, data science, machine learning, and applied AI. This repository contains my publicly available projects, mostly about football analytics using Python or visualised in Tableau.
 </p>
 
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
