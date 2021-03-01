@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/eddwebster/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hi , I'm Edd</h2>
+<h2 align="center">Hi, I'm Edd</h2>
 <p align="center">
 I'm a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I am enthusiastic about football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, mostly regarding football analytics, created using Python or visualised in Tableau.
   
