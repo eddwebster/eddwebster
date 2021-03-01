@@ -4,7 +4,6 @@
 <p align='center'>
 <a href="https://twitter.com/eddwebster"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/eddwebster/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<!-- <a href="https://www.buymeacoffee.com/parthshukla28"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png"></a> -->
 </p>
 
 <h2 align="center">Hi , I'm Edd</h2>
