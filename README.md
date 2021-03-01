@@ -1,16 +1,15 @@
-### Hi there 👋
-
 <!--
 **eddwebster/eddwebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align='center'>
+<a href="https://twitter.com/eddwebster"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/eddwebster/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<!-- <a href="https://www.buymeacoffee.com/parthshukla28"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png"></a> -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Hi , I'm Edd</h2>
+<p align="center">
+I'm a Data Analysis and Visualisation specialist currently working for City Football Group. I'm enthusiastic about football analytics, data science, machine learning, and applied AI. Most of my code is in Python or visualise in Tableau.
+</p>
+
+![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
