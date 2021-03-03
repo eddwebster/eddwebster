@@ -12,4 +12,16 @@ Check out my <a href="https://github.com/eddwebster/football_analytics" target="
 Full details of my previous employment experience can be found on my <a href="https://www.linkedin.com/in/eddwebster/" target="_blank">LinkedIn profile</a>, <a href="https://public.tableau.com/profile/edd.webster#!/" target="_blank">Tableau Public profile</a>, <a href="https://eddwebster.com/" target="_blank">eddwebster.com</a>, and downloadable <a href="/downloads/EddWebsterCV.pdf" download>PDF CV</a>.
 </p>
 
+Please note, all the work produced in this repository is mine and/or credited to the publicly produced code and libraries used, and is in no way related to the work and analysis I produce for my employers.
+
+For more information about this repository and the author, I'm available through all the following channels:
+*    [eddwebster.com](https://www.eddwebster.com/);
+*    edd.j.webster@gmail.com;
+*    [@eddwebster](https://www.twitter.com/eddwebster);
+*    [linkedin.com/in/eddwebster](https://www.linkedin.com/in/eddwebster/);
+*    [github/eddwebster](https://github.com/eddwebster/);
+*    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster);
+*    [kaggle.com/eddwebster](https://www.kaggle.com/eddwebster); and
+*    [hackerrank.com/eddwebster](https://www.hackerrank.com/eddwebster).
+
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
