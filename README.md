@@ -6,7 +6,7 @@
 <h2 align="center">Hi, I'm Edd</h2>
 
 <p align="center">
-  <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
+  <a href="https://www.twitter.com/eddwebster"><img src="../img/fifa21eddwebsterbanner.png"></a>
 </p>
 <p>
 I'm a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I am enthusiastic about football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, mostly regarding football analytics, created using Python or visualised in Tableau.
