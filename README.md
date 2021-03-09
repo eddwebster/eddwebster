@@ -11,7 +11,7 @@
 <p>
 
 ## :wave: About This Repository and Author
-I'm a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I am enthusiastic and enjoy exploring the topics of football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, mostly regarding football analytics, created using Python or visualised in Tableau.
+I am a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I am enthusiastic and enjoy exploring the topics of football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, mostly regarding football analytics, created using Python or visualised in Tableau.
 
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code and libraries used, and is in no way related to the work and analysis I produce for my employers.
 
@@ -24,7 +24,7 @@ For more information about myself or any of the projects in this repository, I'm
 *    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
 ## :notebook_with_decorative_cover: Notebooks
-Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">football_analytics</a> repo for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
+Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repo for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
