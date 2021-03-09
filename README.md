@@ -9,14 +9,13 @@
   <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
 </p>
 <p>
+
+## :wave: About This Repository and Author
 I'm a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I am enthusiastic and enjoy exploring the topics of football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, mostly regarding football analytics, created using Python or visualised in Tableau.
-  
-Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">football_analytics</a> repo for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community.
 
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code and libraries used, and is in no way related to the work and analysis I produce for my employers.
 
-## :wave: About This Repository and Author
-For more information about this repository and the author, I'm available through all the following channels:
+For more information about myself or any of the projects in this repository, I'm available through all the following channels:
 *    [eddwebster.com](https://www.eddwebster.com/);
 *    edd.j.webster@gmail.com;
 *    [@eddwebster](https://www.twitter.com/eddwebster);
@@ -40,4 +39,5 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 *    StrataBet Chance dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard?:language=es&:display_count=y&:origin=viz_share_link)]; and
 *    Opta [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard?:language=es&:display_count=y&:origin=viz_share_link)].
 
+## :chart_with_upwards_trend: GitHub Stats
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
