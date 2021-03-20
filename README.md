@@ -11,7 +11,7 @@
 <p>
 
 ## :wave: About This Repository and Author
-I am a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I am enthusiastic and enjoy exploring the topics of football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, mostly regarding football analytics, created using Python or visualised in Tableau.
+I am a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring the topics of football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, mostly regarding football analytics, created using Python or visualised in Tableau.
 
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code and libraries used, and is in no way related to the work and analysis I produce for my employers.
 
