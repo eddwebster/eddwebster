@@ -3,11 +3,11 @@
 
 <h2 align="center">Hi, I'm Edd</h2>
 
-<! ––
+<!--
 <p align="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
 </p>
-––>
+-->
 
 <p>
   
