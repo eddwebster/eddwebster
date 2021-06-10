@@ -3,7 +3,9 @@
 
 <h2 align="center">Hi, I'm Edd</h2>
 
-[![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=for-the-badge&logo=web&logoColor=white)](https://www.eddwebster.com/)
+<p align="center">
+  <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
+  [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=for-the-badge&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:edd.j.webster@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
@@ -12,8 +14,6 @@
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
 
-<p align="center">
-  <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
 </p>
 <p>
   
