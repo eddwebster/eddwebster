@@ -7,8 +7,6 @@
   <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
 </p>
 <p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
   
 ## :wave: About This Repository and Author
 I am a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring the topics of football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, mostly regarding football analytics, created using Python or visualised in Tableau.
@@ -45,3 +43,5 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 
 ## :chart_with_upwards_trend: GitHub Stats
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
+  
+![](https://visitor-badge.glitch.me/badge?page_id=eddwebster.eddwebster)
