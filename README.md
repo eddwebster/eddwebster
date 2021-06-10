@@ -7,6 +7,13 @@
   <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
 </p>
 
+<p>
+  
+## :wave: About This Repository and Author
+I am a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring the topics of football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, 
+
+For more information about this repository and the author, I am available through all the following channels:
+
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=for-the-badge&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:edd.j.webster@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
@@ -16,12 +23,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
 
-<p>
   
-## :wave: About This Repository and Author
-I am a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring the topics of football analytics, data science, machine learning, and applied AI. My GitHub profile contains my publicly available projects, 
-
-
 ## :notebook_with_decorative_cover: Notebooks
 Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repo for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
