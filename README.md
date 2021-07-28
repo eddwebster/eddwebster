@@ -34,7 +34,7 @@ Check out my <a href="https://github.com/eddwebster/football_analytics" target="
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
 4.    [Machine Learning](https://github.com/eddwebster/football_analytics/tree/master/notebooks/4_machine_learning);
 5.    [Data Analysis](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects) - projects include working with [Tracking data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/tracking_data), constructing [VAEP models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/vaep) (as introduced by SciSports), building [xG models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/xg_modeling) using Logistic Regression, Random Forests and Gradient Booested Decision Tree algorithms such as [XGBoost](https://xgboost.readthedocs.io/en/latest/), and analysing [player similarity](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/player_similarity) using PCA and Factor Analysis (TBA);
-6.    [Data Visualisation](https://github.com/eddwebster/football_analytics/tree/master/notebooks/6_data_visualisation) - examples of how to create some of the most visualisations using Python and Tableau.
+6.    [Data Visualisation](https://github.com/eddwebster/football_analytics/tree/master/notebooks/6_data_visualisation) - examples of how to create some of the most popular visualisations using Python and Tableau.
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
   
