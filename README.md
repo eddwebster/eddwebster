@@ -12,7 +12,7 @@
 <p>
   
 ## :wave: About This Repository and Author
-I am a Data Analysis and Visualisation specialist currently working for <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring data science, machine learning, and football analytics. My GitHub profile contains much of my publicly available work. 
+I am a Data Scientist currently working with <a href="https://www.lego.com/" target="_blank">The LEGO Group</a>, previously <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a> and <a href="https://www.whufc.com/" target="_blank">West Ham United Football Club</a>. I enjoy explority and working in the fields of data science, machine learning, visualisation, and football analytics, of which this GitHub profile includes much of my publicly available work.
 
 For more information, I am available through all the following channels:
 
