@@ -11,7 +11,7 @@
   
 I am a Data Scientist currently working with <a href="https://www.lego.com/" target="_blank">The LEGO Group</a>, previously <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a> and <a href="https://www.whufc.com/" target="_blank">West Ham United Football Club</a>. I enjoy explority and working in the fields of data science, machine learning, visualisation, and football analytics, of which this GitHub profile includes much of my publicly available work.
 
-For more information, I am available through all the following channels:
+For more information of my experience, please see my downloadable [PDF CV](https://eddwebster.com/downloads/EddWebsterCV.pdf), or if you would like to get in touch, I am available through all the following channels:
 
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edd.j.webster@gmail.com)
