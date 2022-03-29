@@ -15,7 +15,8 @@ For more information of my experience, please see my downloadable [PDF CV](https
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eddwebster)
 [![Coder Rank Badge](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
-
+![Profile_Views](https://gpvc.arturio.dev/eddwebster)
+![Followers](https://img.shields.io/github/followers/eddwebster?label=Followers)
   
 ## :notebook_with_decorative_cover: Notebooks
 Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repo for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
@@ -40,6 +41,3 @@ Example Tableau dashboards:
   
 ## :chart_with_upwards_trend: GitHub Stats
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
-  
-![profile_views](https://gpvc.arturio.dev/eddwebster)
-![followers](https://img.shields.io/github/followers/eddwebster?label=Followers)
