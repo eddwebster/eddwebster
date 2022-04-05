@@ -41,3 +41,7 @@ Example Tableau dashboards:
   
 ## :chart_with_upwards_trend: GitHub Stats
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
+
+
+## :chart_with_upwards_trend: Football Analytics GitHub Stars History
+[![Football Analytics GitHub Stars History](https://api.star-history.com/svg?repos=eddwebster/football_analytics&type=Date)](https://star-history.com/#eddwebster/football_analytics&Date)
