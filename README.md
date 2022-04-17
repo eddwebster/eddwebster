@@ -21,7 +21,7 @@ For more information of my experience, please see my downloadable [PDF CV](https
 
 
 ## :notebook_with_decorative_cover: Notebooks
-Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repo for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
+Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
@@ -58,4 +58,6 @@ I am comfortable working with the following languages and software:
 
 
 ## :chart_with_upwards_trend: Football Analytics GitHub Stars History
+Star tracker for my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository 
+
 [![Football Analytics GitHub Stars History](https://api.star-history.com/svg?repos=eddwebster/football_analytics&type=Date)](https://star-history.com/#eddwebster/football_analytics&Date)
