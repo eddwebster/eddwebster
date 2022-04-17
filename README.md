@@ -21,15 +21,6 @@ For more information of my experience, please see my downloadable [PDF CV](https
 ![Followers](https://img.shields.io/github/followers/eddwebster?label=Followers)
 
 
-## :hammer_and_wrench: Tech Stack
-<p align="left">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/mysql.svg" width="40" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/git.svg" width="70" height="40" />
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/apache_spark.svg" width="80" height="50" />
-</p>
-
-
 ## :notebook_with_decorative_cover: Notebooks
 Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repo for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
@@ -50,7 +41,19 @@ Example Tableau dashboards:
 *    [StrataBet Chance creation](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard); and
 *    [Opta #mcfcanalytics](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard) (see [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics)).
 
-  
+
+
+## :hammer_and_wrench: Tech Stack
+I am comfortable working with the following languages and software:
+
+<p align="left">
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/python.svg" width="40" height="40" />
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/mysql.svg" width="40" height="40" />
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/git.svg" width="70" height="40" />
+	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/apache_spark.svg" width="80" height="50" />
+</p>
+
+
 ## :chart_with_upwards_trend: GitHub Stats
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
 
