@@ -6,6 +6,7 @@ I am a Data Scientist working with <a href="https://www.whufc.com/" target="_bla
 
 For more information of my experience, please see my downloadable [PDF CV](https://eddwebster.com/downloads/EddWebsterCV.pdf), or if you would like to get in touch, I am available through all the following channels:
 
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edd.j.webster@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
@@ -16,6 +17,7 @@ For more information of my experience, please see my downloadable [PDF CV](https
 [![Coder Rank Badge](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
 ![Profile_Views](https://gpvc.arturio.dev/eddwebster)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eddwebster.eddwebster)
 ![Followers](https://img.shields.io/github/followers/eddwebster?label=Followers)
   
 ## :notebook_with_decorative_cover: Notebooks
