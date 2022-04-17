@@ -17,7 +17,6 @@ For more information of my experience, please see my downloadable [PDF CV](https
 [![Coder Rank Badge](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
 ![Profile_Views](https://gpvc.arturio.dev/eddwebster)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eddwebster.eddwebster)
 ![Followers](https://img.shields.io/github/followers/eddwebster?label=Followers)
 
 
