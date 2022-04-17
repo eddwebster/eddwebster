@@ -57,7 +57,7 @@ I am comfortable working with the following languages and software:
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
 
 
-## :chart_with_upwards_trend: Football Analytics GitHub Stars History
+## :star: Football Analytics GitHub Stars History
 Star tracker for my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository 
 
 [![Football Analytics GitHub Stars History](https://api.star-history.com/svg?repos=eddwebster/football_analytics&type=Date)](https://star-history.com/#eddwebster/football_analytics&Date)
