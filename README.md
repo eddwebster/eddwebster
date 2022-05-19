@@ -2,7 +2,7 @@
   
 <a href="https://eddwebster.com/downloads/EddWebsterCVLEGO.pdf" download><img src="img/edd_webster_minifig.png" alt="Edd Webster" align="right" height="180px"></a>
   
-I am a Data Scientist working with <a href="https://www.lego.com/" target="_blank">The LEGO Group</a>, previously <a href="https://www.whufc.com/" target="_blank">West Ham United Football Club</a> and <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring and working in the fields of data science, machine learning, visualisation, and football analytics, of which this GitHub profile includes much of my publicly available work around these topics.
+I am a Data Scientist working with <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>, previously <a href="https://www.whufc.com/" target="_blank">West Ham United Football Club</a> and <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring and working in the fields of data science, machine learning, visualisation, and football analytics, of which this GitHub profile includes much of my publicly available work around these topics.
 
 For more information of my experience or if you would like to get in touch, I am available through all the following channels:
 
