@@ -16,6 +16,9 @@ For more information of my experience or if you would like to get in touch, I am
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eddwebster)
 [![Coder Rank Badge](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3so6d63c46oaidjv3l3" alt="trackgit-views" />
+</a>
 ![Profile_Views](https://gpvc.arturio.dev/eddwebster)
 ![Followers](https://img.shields.io/github/followers/eddwebster?label=Followers)
 
