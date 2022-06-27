@@ -52,7 +52,7 @@ Python:<br>
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-black?style=flat&logo=scikit-learn&link=https://github.com/eddwebster)](https://github.com/eddwebster) 
+[![scikit-learn](https://img.shields.io/badge/-Scikit%20learn-black?style=flat&logo=scikit-learn&link=https://github.com/eddwebster)](https://github.com/eddwebster) 
 [![matplotlib](https://img.shields.io/badge/-Matplotlib-yellowgreen?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=Seaborn&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![Plotly](https://img.shields.io/badge/-Plotly-salmon?style=flat&logo=Plotly&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
