@@ -4,6 +4,8 @@
   
 I am a Data Scientist working with <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>, previously <a href="https://www.whufc.com/" target="_blank">West Ham United Football Club</a> and <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring and working in the fields of data science, machine learning, visualisation, and football analytics, of which this GitHub profile includes much of my publicly available work around these topics.
 
+Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. 
+
 For more information of my experience or if you would like to get in touch, I am available through all the following channels:
 
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
@@ -24,7 +26,7 @@ For more information of my experience or if you would like to get in touch, I am
 
 
 ## :notebook_with_decorative_cover: Notebooks
-Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
+All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder of the <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> GitHub repository, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
