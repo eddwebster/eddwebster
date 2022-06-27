@@ -48,6 +48,7 @@ Example Tableau dashboards:
 ## :hammer_and_wrench: Tech Stack
 I am comfortable working with the following languages and software:
 
+Python:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
@@ -58,10 +59,12 @@ I am comfortable working with the following languages and software:
 [![Folium](https://img.shields.io/badge/-Folium-9cf?style=flat&logo=Plotly&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 
+Other Data Science languages and tools:
 [![R](https://img.shields.io/badge/-R-black?style=flat&logo=R&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=SQL&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat&logo=RStudio&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
+[![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=SQL&link=https://github.com/eddwebster)](https://github.com/eddwebster)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
+[![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-2F4F4F?style=flat&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 
