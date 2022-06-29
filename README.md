@@ -75,6 +75,6 @@ Other Data Science languages and tools:<br>
 
 
 ## :star: Football Analytics GitHub Stars History
-Star tracker for my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository 
+Star tracker for my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository.
 
 [![Football Analytics GitHub Stars History](https://api.star-history.com/svg?repos=eddwebster/football_analytics&type=Date)](https://star-history.com/#eddwebster/football_analytics&Date)
