@@ -26,7 +26,7 @@ For more information of my experience or if you would like to get in touch, I am
 
 
 ## :notebook_with_decorative_cover: Notebooks
-All code is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder of the <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> GitHub repository, in which the workflow is divided into the following:
+All the code in my  <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> GitHub repository is included in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, of which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
