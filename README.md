@@ -87,7 +87,7 @@ Other Data Science languages and tools:<br>
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./icons/R.jpeg" width="65px"/>
+            <img src="./icons/r.jpeg" width="65px"/>
             <br/> R
         </td>
         <td align="center" width="140" height="112.43">
