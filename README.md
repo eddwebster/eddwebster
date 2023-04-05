@@ -48,42 +48,8 @@ Example Tableau dashboards:
 ## :hammer_and_wrench: Tech Stack
 I am comfortable working with the following languages and software:
 
-<div align="center">
-<table align="center">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
-            <br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
-            <br/> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
-            <br /> FastAPI
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> Docker
-        </td>
-    </tr>
-</table>
-</div>
-
 Python:<br>
+
 <div align="center">
 <table align="center">
     <tr>
@@ -116,14 +82,33 @@ Python:<br>
 </div>
 
 Other Data Science languages and tools:<br>
-[![R](https://img.shields.io/badge/-R-black?style=flat&logo=R&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat&logo=RStudio&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=SQL&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
-[![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/eddwebster)](https://github.com/eddwebster)
 
-
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/R.jpeg" width="65px"/>
+            <br/> R
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/rstudio.png" width="65px"/>
+            <br/> R Studio
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/tidyverse.png" width="65px"/>
+            <br/> Tidyverse
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/tableau.png" width="65px"/>
+            <br/> Tableau
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/powerbi.png" width="65px"/>
+            <br/> Power BI
+        </td>
+    </tr>
+</table>
+</div>
 ## :chart_with_upwards_trend: GitHub Stats
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
 
