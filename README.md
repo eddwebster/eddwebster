@@ -48,16 +48,72 @@ Example Tableau dashboards:
 ## :hammer_and_wrench: Tech Stack
 I am comfortable working with the following languages and software:
 
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br/> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <br /> FastAPI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
+
 Python:<br>
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![pandas](https://img.shields.io/badge/-pandas-black?style=flat&logo=Pandas&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![scikit-learn](https://img.shields.io/badge/-scikitlearn-black?style=flat&logo=scikit-learn&link=https://github.com/eddwebster)](https://github.com/eddwebster) 
-[![matplotlib](https://img.shields.io/badge/-matplotlib-yellowgreen?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=Seaborn&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![Plotly](https://img.shields.io/badge/-Plotly-salmon?style=flat&logo=Plotly&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![Folium](https://img.shields.io/badge/-Folium-9cf?style=flat&logo=Plotly&logoColor=white&link=https://github.com/eddwebster)](https://github.com/eddwebster)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/eddwebster)](https://github.com/eddwebster)
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/python.jpeg" width="65px"/>
+            <br/> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/jupyter.png" width="65px"/>
+            <br/> Jupyter Notebooks
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/pandas.png" width="65px"/>
+            <br/> pandas
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/numpy.png" width="65px"/>
+            <br/> NumPy
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/scikitlearn.png" width="65px"/>
+            <br/> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/matplotlib.png" width="65px"/>
+            <br/> matplotlib
+        </td>
+    </tr>
+</table>
+</div>
 
 Other Data Science languages and tools:<br>
 [![R](https://img.shields.io/badge/-R-black?style=flat&logo=R&link=https://github.com/eddwebster)](https://github.com/eddwebster)
