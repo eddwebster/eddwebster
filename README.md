@@ -109,6 +109,8 @@ Other Data Science languages and tools:<br>
     </tr>
 </table>
 </div>
+
+
 ## :chart_with_upwards_trend: GitHub Stats
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
 
