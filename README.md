@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Edd</h2>
  
-I am the Lead Data Scientist with the [Leicester City Football Club](https://www.lcfc.com/?lang=en) First Team, previously <a href="https://analyticsfc.co.uk/" target="_blank">Analytics FC</a>, <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>, <a href="https://www.whufc.com/" target="_blank">West Ham United Football Club</a> and <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring and working in the fields of data science, machine learning, visualisation, and football analytics, of which this GitHub profile includes much of my publicly available work around these topics.
+I am the Lead Data Scientist @ [Leicester City Football Club](https://www.lcfc.com/?lang=en), previously <a href="https://analyticsfc.co.uk/" target="_blank">Analytics FC</a>, <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>, <a href="https://www.whufc.com/" target="_blank">West Ham United Football Club</a> and <a href="https://www.cityfootballgroup.com/" target="_blank">City Football Group</a>. I enjoy exploring and working in the fields of data science, machine learning, data engineering, data visualisation, and football analytics, of which this GitHub profile includes much of my publicly available work around these topics.
 
-Check out my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. 
+Please see my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. 
 
 For more information of my experience or if you would like to get in touch, I am available through all the following channels:
 
