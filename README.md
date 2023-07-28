@@ -76,6 +76,10 @@ Python:<br>
             <img src="./icons/matplotlib.png" width="65px"/>
             <br/> matplotlib
         </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/pyspark.png" width="65px"/>
+            <br/> matplotlib
+        </td>
     </tr>
 </table>
 </div>
