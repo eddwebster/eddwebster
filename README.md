@@ -39,7 +39,7 @@ Example Tableau dashboards:
 *    [2018 FIFA Men's World Cup](https://public.tableau.com/app/profile/edd.webster/viz/EddWebster-WorldCup2018AnalysisandDashboard/WC2018PlayerDashboard);
 *    [FA WSL](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterFAWSLAnalysisandDashboard/WSLxGAnalysisDashboard);
 *    [‘Big 5’ European leagues](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterBig5EuropeanLeagueAnalysisandDashboards/Big5WaffleChart);
-*    [EFL](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterEFLAnalysisandDashboards/EFLFullBackRadarDashboard);and
+*    [EFL](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterEFLAnalysisandDashboards/EFLFullBackRadarDashboard); and
 *    [StrataBet Chance creation](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard).
 
 
