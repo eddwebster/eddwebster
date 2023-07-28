@@ -106,6 +106,18 @@ Other Data Science languages and tools:<br>
             <img src="./icons/powerbi.png" width="65px"/>
             <br/> Power BI
         </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/airflow.png" width="65px"/>
+            <br/> Airflow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/aws.png" width="65px"/>
+            <br/> AWS
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/docker.png" width="65px"/>
+            <br/> Docker
+        </td>
     </tr>
 </table>
 </div>
