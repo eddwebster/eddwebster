@@ -110,6 +110,10 @@ Other Data Science languages and tools:<br>
             <br/> Power BI
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="./icons/databricks.png" width="65px"/>
+            <br/> Databricks
+        </td>
+        <td align="center" width="140" height="112.43">
             <img src="./icons/airflow.png" width="65px"/>
             <br/> Airflow
         </td>
