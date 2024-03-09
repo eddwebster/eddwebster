@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Edd</h2>
  
-First Team Lead Data Scientist @ [Leicester City Football Club](https://github.com/lcfc-analytics) 🦊⚽. Previously <a href="https://analyticsfc.co.uk/" target="_blank">Analytics FC</a> and <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>. I enjoy exploring and working in the fields of data science, machine learning, statistics, data engineering, data visualisation, and football analytics, for which this GitHub profile includes much of my publicly available work around these topics.
+First Team Lead Data Scientist @ [Leicester City Football Club](https://github.com/lcfc-analytics). Previously <a href="https://analyticsfc.co.uk/" target="_blank">Analytics FC</a> and <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>. I enjoy exploring and working in the fields of data science, machine learning, statistics, data engineering, data visualisation, and football analytics, for which this GitHub profile includes much of my publicly available work around these topics.
 
 Please see my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. 
 
