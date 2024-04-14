@@ -28,7 +28,8 @@ For more information, see the following...
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
 [![EddWebster.com Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
-[![About.me Badge](https://img.shields.io/badge/About.me-00A98F?style=flat&logo=about.me&logoColor=white)](https://about.me/eddwebster/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
+[![Linktree Badge](https://img.shields.io/badge/Linktree-43E660?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/eddwebster)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
 
