@@ -174,10 +174,11 @@ Other Data Science languages and tools:<br>
 <h2 align="left" id="coures"> 🧑‍🎓 Courses</h2>
 
 <ul>
-  <li><a href="https://traininggroundguru.vhx.tv/products/sql-masterclass" target="_blank">SQL Masterclass/a></li>
+  <li><a href="https://traininggroundguru.vhx.tv/products/sql-masterclass" target="_blank">SQL Masterclass</a></li>
 </ul>
 
 <br>
+
 
 
 <!-- GITHUB STATS-->
