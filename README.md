@@ -33,6 +33,8 @@ Please see my <a href="https://github.com/eddwebster/football_analytics" target=
 ![Profile_Views](https://gpvc.arturio.dev/eddwebster)
 ![Followers](https://img.shields.io/github/followers/eddwebster?label=Followers)
 
+<br>
+
 
 
 <!-- CODE-->
@@ -44,6 +46,8 @@ Although a little out of date now (with code I would dearly like to refactor), t
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
 4.    [Data Unification](https://github.com/eddwebster/football_analytics/tree/master/notebooks/4_data_unification); and
 5.    [Data Analysis](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects) - projects include working with [Tracking data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/tracking_data), constructing [VAEP models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/vaep) (as introduced by SciSports), building [xG models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/xg_modeling) using [Logistic Regression](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/5_data_analysis_and_projects/xg_modeling/shots_dataset/chance_quality_modelling/1%29%20Logistic%20Regression%20Expected%20Goals%20Model.ipynb), Random Forests and Gradient Boosted Decision Tree algorithms such as [XGBoost](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/5_data_analysis_and_projects/xg_modeling/shots_dataset/chance_quality_modelling/2%29%20XGBoost%20Expected%20Goals%20Model.ipynb) and [CatBoost](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/5_data_analysis_and_projects/xg_modeling/shots_dataset/chance_quality_modelling/3%29%20CatBoost%20Expected%20Goals%20Model.ipynb), and analysing [player similarity](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/player_similarity_and_clustering) using PCA and K-Means clustering).
+
+<br>
 
 
 
@@ -58,6 +62,8 @@ Example Tableau dashboards:
 *    [‘Big 5’ European leagues](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterBig5EuropeanLeagueAnalysisandDashboards/Big5WaffleChart);
 *    [EFL](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterEFLAnalysisandDashboards/EFLFullBackRadarDashboard); and
 *    [StrataBet Chance creation](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard).
+
+<br>
 
 
 
@@ -148,12 +154,16 @@ Other Data Science languages and tools:<br>
 </table>
 </div>
 
+<br>
+
 
 
 <!-- GITHUB STATS-->
 <h2 align="left" id="github-stats"> 📈 GitHub Stats</h2>
 
 ![Edd's Github Stats](https://github-readme-stats.vercel.app/api?username=eddwebster&show_icons=true&theme=vue-dark)
+
+<br>
 
 
 
@@ -163,6 +173,8 @@ Other Data Science languages and tools:<br>
 Star tracker for the <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository of open-source football analysis projects and resources.
 
 [![Football Analytics GitHub Stars History](https://api.star-history.com/svg?repos=eddwebster/football_analytics&type=Date)](https://star-history.com/#eddwebster/football_analytics&Date)
+
+<br>
 
 
 
