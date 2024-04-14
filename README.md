@@ -2,7 +2,7 @@
 
 <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
 
-Football Data Scientist with [Leicester City Football Club](https://github.com/lcfc-analytics) ⚽📊.
+Football Data Scientist @ [Leicester City Football Club](https://github.com/lcfc-analytics) ⚽📊.
 
 Expertise in:
 - Football Analytics
@@ -56,7 +56,7 @@ Although a little out of date now (with code I would dearly like to refactor), t
 
 
 <!-- DATA VISUALISATION AND TABLEAU-->
-<h2 align="left" id="data-visualisation-and-tableau"> 📚 Data Visualisation and Tableau </h2>
+<h2 align="left" id="data-visualisation-and-tableau"> 📊 Data Visualisation and Tableau </h2>
 
 For Tableau dashboards produced, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
@@ -72,7 +72,7 @@ Examples dashboards:
 
 
 <!-- Tech Stack -->
-<h2 align="left" id="tech-stack"> 👋 Tech Stack</h2>
+<h2 align="left" id="tech-stack"> ⚒️ Tech Stack</h2>
 
 I am comfortable working with the following languages and software:
 
