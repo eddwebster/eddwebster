@@ -6,7 +6,7 @@ Football Data Scientist @ [Leicester City Football Club](https://github.com/lcfc
 
 Expertise in:
 - Football Analytics
-- Data Science
+- Data Science and Machine Learning
 - Python
 - R
 - SQL
