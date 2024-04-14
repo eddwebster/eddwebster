@@ -11,8 +11,6 @@ Expertise in:
 - Tableau
 
 <br>
-<br>
-<br>
 
 
 
@@ -31,6 +29,7 @@ Please see my <a href="https://github.com/eddwebster/football_analytics" target=
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
 [![About.me Badge](https://img.shields.io/badge/About.me-00A98F?style=flat&logo=about.me&logoColor=white)](https://about.me/eddwebster/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
 ![Profile_Views](https://gpvc.arturio.dev/eddwebster)
 ![Followers](https://img.shields.io/github/followers/eddwebster?label=Followers)
 
