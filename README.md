@@ -1,5 +1,7 @@
 <h1 align="left">Hi, I'm Edd</h2>
 
+<a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
+
 Football Data Scientist with [Leicester City Football Club](https://github.com/lcfc-analytics) ⚽📊.
 
 Expertise in:
