@@ -160,6 +160,18 @@ Other Data Science languages and tools:<br>
 
 
 
+<!-- ARTICLES-->
+<h2 align="left" id="articles"> 📰 Articles</h2>
+
+<ul>
+  <li><a href="https://trainingground.guru/articles/edd-webster-from-man-city-to-lego" target="_blank">Edd Webster: From Man City to Lego</a></li>
+  <li><a href="https://trainingground.guru/articles/leicester-hire-legos-webster-to-build-data-science-capabilities" target="_blank">Leicester hire Lego's Webster to build data science capabilities</a></li>
+</ul>
+
+<br>
+
+
+
 <!-- GITHUB STATS-->
 <h2 align="left" id="github-stats"> 📈 GitHub Stats</h2>
 
