@@ -170,6 +170,16 @@ Other Data Science languages and tools:<br>
 
 
 
+<!-- COURSES-->
+<h2 align="left" id="coures"> 🧑‍🎓 Courses</h2>
+
+<ul>
+  <li><a href="[https://trainingground.guru/articles/edd-webster-from-man-city-to-lego](https://traininggroundguru.vhx.tv/products/sql-masterclass)" target="_blank">SQL Masterclass/a></li>
+</ul>
+
+<br>
+
+
 <!-- GITHUB STATS-->
 <h2 align="left" id="github-stats"> 📈 GitHub Stats</h2>
 
