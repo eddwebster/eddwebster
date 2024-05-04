@@ -19,7 +19,7 @@ Expertise in:
 <!-- ABOUT ME-->
 <h2 align="left" id="about-me"> 👋 About Me</h2>
 
-I have been working in business and data analysis for both first team football and commercial industries for six years, where I currently work as the First Team Lead Data Scientist @ [Leicester City Football Club](https://github.com/lcfc-analytics), previously <a href="https://analyticsfc.co.uk/" target="_blank">Analytics FC</a> and <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>. I enjoy exploring and working in the fields of data science, machine learning, statistics, data engineering, data visualisation, and football analytics, for which this GitHub profile includes much of my publicly available work around these topics.
+I have been working in business and data analysis for both first team football and commercial industries for six years. Previously I was the First Team Lead Data Scientist @ [Leicester City Football Club](https://github.com/lcfc-analytics), as well as working as a Data Scientist for <a href="https://analyticsfc.co.uk/" target="_blank">Analytics FC</a> and <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>. I enjoy exploring and working in the fields of data science, machine learning, statistics, data engineering, data visualisation, and football analytics, for which this GitHub profile includes much of my publicly available work around these topics.
 
 Please see my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. 
 
@@ -28,9 +28,9 @@ For more information, see the following...
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
 [![EddWebster.com Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
-[![Linktree Badge](https://img.shields.io/badge/Linktree-43E660?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/eddwebster)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eddwebster)
+[![Coder Rank Badge](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
 
 <br>
@@ -212,7 +212,3 @@ For more information, I am available through all the following channels:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-43E660?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/eddwebster)
 [![About.me Badge](https://img.shields.io/badge/About.me-00A98F?style=flat&logo=about.me&logoColor=white)](https://about.me/eddwebster/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eddwebster)
-[![Coder Rank Badge](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/eddwebster)
-[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
