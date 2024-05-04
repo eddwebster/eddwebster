@@ -19,7 +19,7 @@ Expertise in:
 <!-- ABOUT ME-->
 <h2 align="left" id="about-me"> 👋 About Me</h2>
 
-I have been working in business and data analysis for both first team football and commercial industries for six years. Previously I was the First Team Lead Data Scientist @ [Leicester City Football Club](https://github.com/lcfc-analytics), as well as working as a Data Scientist for <a href="https://analyticsfc.co.uk/" target="_blank">Analytics FC</a> and <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>. I enjoy exploring and working in the fields of data science, machine learning, statistics, data engineering, data visualisation, and football analytics, for which this GitHub profile includes much of my publicly available work around these topics.
+I have been working in business and data analysis for both first team football and commercial industries for six years. Previously I was the First Team Lead Data Scientist at [Leicester City Football Club](https://github.com/lcfc-analytics), as well as working as a Data Scientist for <a href="https://analyticsfc.co.uk/" target="_blank">Analytics FC</a> and <a href="https://www.lego.com/" target="_blank">the LEGO Group</a>. I enjoy exploring and working in the fields of data science, machine learning, statistics, data engineering, data visualisation, and football analytics, for which this GitHub profile includes much of my publicly available work around these topics.
 
 Please see my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository for a collection of football analytics projects, data, and analysis that I have created, with links to publicly available resources in the football analytics community. 
 
