@@ -2,7 +2,7 @@
 
 <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
 
-Football Data Scientist @ [Leicester City Football Club](https://github.com/lcfc-analytics) ⚽📊.
+Football Data Scientist ⚽📊.
 
 Expertise in:
 - Football Analytics
