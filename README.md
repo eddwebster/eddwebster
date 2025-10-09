@@ -38,38 +38,6 @@ For more information:
 <br>
 
 
-
-<!-- CODE-->
-<h2 align="left" id="code"> 📚 Code</h2>
-
-Although a little out of date now (with code I would dearly like to refactor), the code in my <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> GitHub repository can be found in the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, of which the workflow is divided into the following:
-1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping)
-2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing)
-3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering)
-4.    [Data Unification](https://github.com/eddwebster/football_analytics/tree/master/notebooks/4_data_unification)
-5.    [Data Analysis](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects)
-
-
-<br>
-
-
-
-<!-- DATA VISUALISATION AND TABLEAU-->
-<h2 align="left" id="data-visualisation-and-tableau"> 📊 Data Visualisation and Tableau </h2>
-
-For Tableau dashboards produced, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
-
-Examples dashboards:
-*    [2018 FIFA Men's World Cup](https://public.tableau.com/app/profile/edd.webster/viz/EddWebster-WorldCup2018AnalysisandDashboard/WC2018PlayerDashboard)
-*    [FA WSL](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterFAWSLAnalysisandDashboard/WSLxGAnalysisDashboard)
-*    [‘Big 5’ European leagues](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterBig5EuropeanLeagueAnalysisandDashboards/Big5WaffleChart)
-*    [EFL](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterEFLAnalysisandDashboards/EFLFullBackRadarDashboard)
-*    [StrataBet Chance creation](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard)
-
-<br>
-
-
-
 <!-- Tech Stack -->
 <h2 align="left" id="tech-stack"> ⚒️ Tech Stack</h2>
 
