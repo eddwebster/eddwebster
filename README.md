@@ -1,21 +1,5 @@
 <h1 align="left">Hi, I'm Edd</h2>
 
-<a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
-
-Football Data Scientist ⚽📊.
-
-Expertise in:
-- Football Analytics
-- Data Science and Machine Learning
-- Python
-- R
-- SQL
-- Tableau
-
-<br>
-
-
-
 <!-- ABOUT ME-->
 <h2 align="left" id="about-me"> 👋 About Me</h2>
 
